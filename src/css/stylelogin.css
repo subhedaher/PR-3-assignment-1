@@ -1,0 +1,20 @@
+.button{
+    -fx-background-color: blue;
+    -fx-padding: 10 20 10 20;
+    -fx-text-fill:white;
+}
+
+.label{
+    -fx-font-weight : bold;
+    -fx-text-fill: black;
+    -fx-font-size: 15;
+}
+
+.text-field , .password-field{
+    -fx-border-color: blue;
+    -fx-padding: 10;
+}
+
+.alert{
+    -fx-text-fill: red;
+}

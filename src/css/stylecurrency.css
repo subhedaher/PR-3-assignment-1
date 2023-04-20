@@ -1,0 +1,27 @@
+.label{
+    -fx-font-weight : bold;
+    -fx-text-fill: #330033;
+    -fx-font-size: 17;
+}
+
+.btnLogOut{
+    -fx-font-weight : bold;
+    -fx-font-size: 15;
+    -fx-background-color:#996600;
+    -fx-text-fill:white;
+    -fx-padding: 5 17 5 17;
+}
+
+.btnConvert{
+    -fx-font-weight : bold;
+    -fx-font-size: 15;
+    -fx-background-color:#330033;
+    -fx-text-fill:white;
+    -fx-padding: 10 15 10 15;
+}
+
+.alert{
+    -fx-text-fill: red;
+}
+
+
